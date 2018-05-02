@@ -17,4 +17,4 @@
 }
 
 getCardInfo('6222600810016413866');
-echo "OK,ssh,\r\n";
+echo "OK,ssh,123\r\n";
